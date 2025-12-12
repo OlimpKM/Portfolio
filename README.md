@@ -1,6 +1,4 @@
-# Portfolio – 
-
-**Certyfikaty i wykształcenie
+# Portfolio – Certyfikaty i wykształcenie
 
 W tym katalogu znajdują się certyfikaty, referencje i informacje o wykształceniu. Ze wględu na bezpieczeństwo w archiwum 7z zabezpieczone hasłem
 
