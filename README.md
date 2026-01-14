@@ -3,6 +3,13 @@
 **Senior Software Engineer - Developer - Administrator - Integrator**  
 Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji desktopowych, webowych oraz systemów bazodanowych. Specjalizuję się w technologii .NET, C#, WinForms, DevExpress, SQL oraz integracji systemów korporacyjnych. Posiadam doświadczenie w automatyzacji procesów, administracji systemami i wykorzystaniu AI w rozwoju oprogramowania.
 
+#### Kontakt
+📞 telefon: +48 732 137 137  
+✉️ email: [f.krzysztof.majewski@gmail.com](mailto:f.krzysztof.majewski@gmail.com)  
+🔗 LinkedIn: [Krzysztof Majewski](https://www.linkedin.com/in/krzysztof-majewski-3b896490/)
+
+---
+
 - [Wykształcenie](#-wykształcenie) 
 - [Certyfikaty](#-certyfikaty) 
 - [Zrealizowane projekty](#-zrealizowane-projekty)
@@ -96,7 +103,7 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 ## 🧠 **Umiejętności**
 
 ### Programowanie
-- **Języki:** C#, Delphi, PHP, Perl, VBA, JavaScript  
+- **Języki:** C#, Delphi, PHP, Python, Perl, VBA, JavaScript  
 - **Frameworki / Biblioteki C#:** .NET 8, .NET Framework, WinForms, WPF (podstawy), DevExpress, WCF, Services  
 - **Biblioteki / narzędzia C#:** iTextSharp, MailKit, MsgReader, TinyMCE, Google.Apis, WordGlue  
 - **API / Protokół:** REST API, JSON  
