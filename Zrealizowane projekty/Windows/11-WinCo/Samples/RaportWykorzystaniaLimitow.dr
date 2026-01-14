@@ -1,0 +1,70 @@
+# ---
+# Report: Credit Limit Usage
+# Description: Dynamic report definition for monitoring customer credit limits
+# ---
+
+<DESCRIPTION>
+Customer Credit Limit and Usage Analytics Report
+</DESCRIPTION>
+
+<PARAM>
+ <VALUE>PAYER_CODE;String;Payer Internal Code;;</VALUE>
+ <VALUE>CUSTOMER_CODE;String;Customer Internal Code;;</VALUE>
+ <VALUE>USAGE_MIN;Integer;Usage % From;;</VALUE>
+ <VALUE>USAGE_MAX;Integer;Usage % To;;</VALUE>
+ <SELECT>CLIENT_GROUP;GROUP_DICT;Customer Group Selection;0;</SELECT>
+ <VALUE>UPDATE_DATE_FROM;Date;Data Update From;0;1</VALUE>
+ <VALUE>UPDATE_DATE_TO;Date;Data Update To;0;1</VALUE>
+</PARAM>
+
+<SQL>
+SELECT
+  CASE
+    WHEN r.[UpdateDate] IS NULL THEN r.[CreationDate]
+    WHEN r.[CreationDate] <= r.[UpdateDate] THEN r.[UpdateDate]
+  END AS [Last Update],
+  r.[PayerInternalCode] AS [Payer ID],
+  r.[CustomerInternalCode] AS [Customer ID],
+  r.[SalesChannel] AS [Sales Channel],
+  r.[MaxOverdueDays] AS [Max Overdue Days],
+  CAST(r.[PayerLimitUsage] AS decimal(10,2)) AS [Usage (%)],
+  r.[PayerLimit] AS [Total Limit],
+  CAST(r.[PayerBalance] AS decimal(10,2)) AS [Payer Balance],
+  CAST(r.[CustomerBalance] AS decimal(10,2)) AS [Customer Balance]
+FROM [dbo].[v_CreditLimitUsage] AS r
+WHERE (1=1)
+  <IFPARAM>
+  AND r.[CustomerGroup] = :CLIENT_GROUP
+  </IFPARAM>
+  <IFPARAM>
+  AND r.[PayerInternalCode] = :PAYER_CODE
+  </IFPARAM>
+  <IFPARAM>
+  AND r.[PayerLimitUsage] >= :USAGE_MIN
+  </IFPARAM>
+  <IFPARAM>
+  AND r.[PayerLimitUsage] <= :USAGE_MAX
+  </IFPARAM>
+  <IFPARAM>
+  AND r.[CustomerInternalCode] = :CUSTOMER_CODE
+  </IFPARAM>
+  <IFPARAM>
+  AND CAST(ISNULL(r.[UpdateDate], r.[CreationDate]) AS DATE) >= :UPDATE_DATE_FROM
+  </IFPARAM>
+  <IFPARAM>
+  AND CAST(ISNULL(r.[UpdateDate], r.[CreationDate]) AS DATE) <= :UPDATE_DATE_TO
+  </IFPARAM>
+ORDER BY r.[PayerLimitUsage] DESC
+</SQL>
+
+<DICTIONARY>
+ <ITEM>Groups;GROUP_DICT;Code;Name;</ITEM>
+</DICTIONARY>
+
+<GROUP_DICT>
+SELECT DISTINCT
+    GroupCode AS [Code],
+    GroupName AS [Name]
+FROM [dbo].[v_CustomerGroups]
+ORDER BY GroupName
+</GROUP_DICT>
