@@ -19,9 +19,12 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 ---
 
 ## 🎓 **Wykształcenie**
-- [Dyplom magister - informatyka ekonomiczna](Certyfikaty%20i%20wykształcenie/dyplom_mgr.JPG) ocena celująca
+- [Dyplom magister - informatyka ekonomiczna](Certyfikaty%20i%20wykształcenie/dyplom_mgr.JPG)
+  <small>wynik: <span style="color:red;">*bardzo dobry*</span></small>
 - [Dyplom licencjat - informatyka ekonomiczna](Certyfikaty%20i%20wykształcenie/dyplom_licencjat.JPG)
-- [Dyplom technik - oprogramowanie maszyn cyfrowych](Certyfikaty%20i%20wykształcenie/dyplom_technik.jpg)
+  <small>wynik: <span style="color:red;">*bardzo dobry*</span></small>
+- [Dyplom technik - oprogramowanie maszyn cyfrowych](Certyfikaty%20i%20wykształcenie/dyplom_technik.jpg) 
+  <small>wynik: <span style="color:red;">*celujący*</span></small>
 
 <a href="#portfolio-krzysztof-majewski" style="font-size:0.7em">⬆️ Powrót do menu</a>
 
@@ -93,6 +96,7 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 | **Skrypty VBA** | 📁&nbsp;[Skrypty&nbsp;VBA](Kody%20zrodlowe/Skrypty%20VBA) | Programowanie obiektowe wewnątrz pakietu Office, biblioteki WinAPI i autorskie kontrolki UI. |
 | **Skrypty PHP** | 📁&nbsp;[Skrypty&nbsp;php](Kody%20zrodlowe/Skrypty%20php) | Backendowa obsługa systemów produktowych z wykorzystaniem silnika szablonów. |
 | **Skrypty Perl** | 📁&nbsp;[Skrypty&nbsp;perl](Kody%20zrodlowe/Skrypty%20perl) | Przetwarzanie tekstowe (Regex), procesy ETL oraz konwersja danych pomiędzy formatami CSV/XML. |
+| **Skrypty Python** | 📁&nbsp;[Skrypty&nbsp;python](Kody%20zrodlowe/Skrypty%20python) | Allegro analizator - pobieranie kategorii i produktów, analiza, dashboard oraz wizualizacja |
 | **Automatyzacja VBS** | 📁&nbsp;[Skrypty&nbsp;VBS](Kody%20zrodlowe/Skrypty%20VBS) | Administracja usługami sieciowymi (DHCP), integracja z netsh i automatyzacja serwerowa. |
 | **Skrypty CMD** | 📁&nbsp;[Skrypty&nbsp;cmd](Kody%20zrodlowe/Skrypty%20cmd) | Narzędzia DevOps do szybkiej migracji, klonowania i konserwacji baz danych MySQL. |
 
