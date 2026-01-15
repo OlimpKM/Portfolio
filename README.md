@@ -19,12 +19,9 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 ---
 
 ## 🎓 **Wykształcenie**
-- [Dyplom magister - informatyka ekonomiczna](Certyfikaty%20i%20wykształcenie/dyplom_mgr.JPG)
-  <small>wynik: <span style="color:red;">*bardzo dobry*</span></small>
-- [Dyplom licencjat - informatyka ekonomiczna](Certyfikaty%20i%20wykształcenie/dyplom_licencjat.JPG)
-  <small>wynik: <span style="color:red;">*bardzo dobry*</span></small>
-- [Dyplom technik - oprogramowanie maszyn cyfrowych](Certyfikaty%20i%20wykształcenie/dyplom_technik.jpg) 
-  <small>wynik: <span style="color:red;">*celujący*</span></small>
+- [Dyplom magister - informatyka ekonomiczna](Certyfikaty%20i%20wykształcenie/dyplom_mgr.JPG)<br><sub>wynik:🔴 bardzo dobry</sub>
+- [Dyplom licencjat - informatyka ekonomiczna](Certyfikaty%20i%20wykształcenie/dyplom_licencjat.JPG)<br><sub>wynik:🔴 bardzo dobry</sub>
+- [Dyplom technik - oprogramowanie maszyn cyfrowych](Certyfikaty%20i%20wykształcenie/dyplom_technik.jpg)<br><sub>wynik:🔴 celujący</sub>
 
 <a href="#portfolio-krzysztof-majewski" style="font-size:0.7em">⬆️ Powrót do menu</a>
 
