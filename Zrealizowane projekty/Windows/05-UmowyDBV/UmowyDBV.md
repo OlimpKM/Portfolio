@@ -8,7 +8,7 @@
 ![Legal](https://img.shields.io/badge/Typ-Projekt%20komercyjny%20(UoP)-orange)  
 ![Owner](https://img.shields.io/badge/Prawa%20autorskie-Distribev-lightgrey)  
 
-**UmowyDBV** to aplikacja desktopowa klasy **enterprise / back-office**, przeznaczona do **centralnej archiwizacji umów handlowych** wraz z pełną ewidencją załączników, aneksów oraz stron umów.
+**UmowyDBV** to aplikacja desktopowa klasy **back-office**, przeznaczona do **centralnej archiwizacji umów handlowych** wraz z pełną ewidencją załączników, aneksów oraz stron umów.
 
 System został zaprojektowany z myślą o **bezpiecznym, kontrolowanym dostępie do dokumentów** w organizacji o strukturze wielodziałowej (centrala, dystrybucja, sprzedaż), z naciskiem na **audytowalność, spójność danych oraz integrację z infrastrukturą domenową Windows**.
 

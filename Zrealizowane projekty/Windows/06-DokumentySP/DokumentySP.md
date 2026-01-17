@@ -7,7 +7,7 @@
 ![Role](https://img.shields.io/badge/Rola-Full--Stack%20Developer-brightgreen)  
 ![Owner](https://img.shields.io/badge/Prawa%20autorskie-Distribev-lightgrey)  
 
-**Dokumenty SP** to rozbudowany system klasy **back-office / enterprise**, służący do **automatycznego generowania, kompletowania oraz dystrybucji paczek dokumentów** w różnych kanałach komunikacji.
+**Dokumenty SP** to rozbudowany system klasy **back-office**, służący do **automatycznego generowania, kompletowania oraz dystrybucji paczek dokumentów** w różnych kanałach komunikacji.
 
 System obsługuje pełny cykl życia dokumentu:
 od **importu danych i generacji PDF** → przez **budowę paczek dokumentów** → po **wysyłkę elektroniczną, druk lokalny lub nadanie przez Pocztę Polską**.

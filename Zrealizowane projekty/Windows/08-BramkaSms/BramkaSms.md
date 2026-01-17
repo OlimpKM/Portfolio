@@ -8,7 +8,7 @@
 ![Legal](https://img.shields.io/badge/Typ-Projekt%20komercyjny%20(UoP)-orange)  
 ![Owner](https://img.shields.io/badge/Prawa%20autorskie-Distribev-lightgrey)  
 
-**Bramka SMS** to wewnętrzny system klasy **enterprise**, zaprojektowany do **automatyzacji, kontroli kosztów oraz monitorowania masowej wysyłki wiadomości SMS** w organizacji.
+**Bramka SMS** to wewnętrzny system, zaprojektowany do **automatyzacji, kontroli kosztów oraz monitorowania masowej wysyłki wiadomości SMS** w organizacji.
 Rozwiązanie pełni rolę centralnej bramki komunikacyjnej pomiędzy systemami biznesowymi (np. windykacyjnymi) a zewnętrznym dostawcą usług SMS.
 
 System został zaprojektowany z naciskiem na:
