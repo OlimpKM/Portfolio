@@ -1,4 +1,4 @@
-# Win.Co  
+# Obsługa windykacyjna
 **Enterprise Debt Collection & Credit Risk Management System**
 
 ![Status](https://img.shields.io/badge/Status-Zrealizowany-success)  
