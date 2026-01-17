@@ -7,7 +7,7 @@
 ![Role](https://img.shields.io/badge/Rola-Full--Stack%20Developer-brightgreen)  
 ![Owner](https://img.shields.io/badge/Prawa%20autorskie-Distribev-lightgrey)  
 
-**Win.Co** to kompleksowy system klasy **back-office / enterprise**, wspierający procesy **windykacji należności** oraz **zarządzania ryzykiem kredytowym** klientów biznesowych.  
+**Obsługa windykacyjna** to kompleksowy system klasy **back-office / enterprise**, wspierający procesy **windykacji należności** oraz **zarządzania ryzykiem kredytowym** klientów biznesowych.
 Aplikacja została zaprojektowana jako następca wygaszonego systemu **Debby**, z naciskiem na automatyzację, skalowalność oraz pełną audytowalność procesów decyzyjnych.
 
 System obsługuje pełny cykl życia klienta:  
