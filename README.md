@@ -4,7 +4,7 @@
 Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji desktopowych, webowych oraz systemów bazodanowych. Specjalizuję się w technologii .NET, C#, WinForms, DevExpress, SQL oraz integracji systemów korporacyjnych. Posiadam doświadczenie w automatyzacji procesów, administracji systemami i wykorzystaniu AI w rozwoju oprogramowania.
 
 #### Kontakt
-✉️ email: [f.krzysztof.majewski@gmail.com](mailto:f.krzysztof.majewski@gmail.com)
+✉️ email: [f.krzysztof.majewski@gmail.com](mailto:f.krzysztof.majewski@gmail.com)<br>
 🔗 LinkedIn: [Krzysztof Majewski](https://www.linkedin.com/in/krzysztof-majewski-3b896490/)
 
 ---
