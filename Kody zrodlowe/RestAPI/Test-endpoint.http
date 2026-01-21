@@ -1,0 +1,57 @@
+@RestAPI = https://localhost:7149
+@token = ??
+
+### Logowanie (pobranie tokena)
+# @name loginRequest
+POST {{RestAPI}}/api/auth/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "???"
+}
+
+### Rejestracja (nowy uytkownik)
+POST {{RestAPI}}/api/auth/register
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "???"
+}
+
+### Pobierz wszystkie zadania
+GET {{RestAPI}}/api/zadania
+Authorization: Bearer {{token}}
+Accept: application/json
+
+### Pobierz zadanie o id=
+GET {{RestAPI}}/api/zadania/3
+Authorization: Bearer {{token}}
+Accept: application/json
+
+### Dodaj nowe zadanie
+POST {{RestAPI}}/api/zadania
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "tytul": "Zadanie 3",
+  "czyWykonane": false
+}
+
+### Usun zadanie o id=
+DELETE {{RestAPI}}/api/zadania/3
+Authorization: Bearer {{token}}
+Accept: application/json
+
+### Zaktualizuj zadanie o id=3
+PUT {{RestAPI}}/api/zadania/4
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "id": 4,
+  "tytul": "Zadanie 1 - ZROBIONE!",
+  "czyWykonane": true
+}

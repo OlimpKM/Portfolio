@@ -86,7 +86,7 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 
 | Język / Technologia | Katalog | Główne zagadnienia |
 | :--- | :--- | :--- |
-| **C# / .NET** | 📁&nbsp;[CSharp](Kody%20zrodlowe/CSharp) | Dynamiczny interfejs systemu raportowego, wykorzystanie WinForms i delegatów. |
+| **C# / .NET** | 📁&nbsp;[Źródła C#](Kody%20zrodlowe/CSharp) | Dynamiczny interfejs systemu raportowego, wykorzystanie WinForms i delegatów. |
 | **Delphi / Pascal** | 📁&nbsp;[Delphi](Kody%20zrodlowe/Delphi) | Zarządzanie połączeniami bazodanowymi (Zeos), integracja z ADO oraz eksport danych do Excela. |
 | **Bazy danych SQL** | 📁&nbsp;[SQL](Kody%20zrodlowe/SQL) | Zaawansowana analityka finansowa, obliczanie odsetek i agregacja dużych zbiorów danych (MySQL). |
 | **Skrypty VBA** | 📁&nbsp;[Skrypty&nbsp;VBA](Kody%20zrodlowe/Skrypty%20VBA) | Programowanie obiektowe wewnątrz pakietu Office, biblioteki WinAPI i autorskie kontrolki UI. |
@@ -95,6 +95,7 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 | **Skrypty Python** | 📁&nbsp;[Skrypty&nbsp;python](Kody%20zrodlowe/Skrypty%20python) | Allegro analizator - pobieranie kategorii i produktów, analiza, dashboard oraz wizualizacja |
 | **Automatyzacja VBS** | 📁&nbsp;[Skrypty&nbsp;VBS](Kody%20zrodlowe/Skrypty%20VBS) | Administracja usługami sieciowymi (DHCP), integracja z netsh i automatyzacja serwerowa. |
 | **Skrypty CMD** | 📁&nbsp;[Skrypty&nbsp;cmd](Kody%20zrodlowe/Skrypty%20cmd) | Narzędzia DevOps do szybkiej migracji, klonowania i konserwacji baz danych MySQL. |
+| **RestAPI** | 📁&nbsp;[Projekt C#](Kody%20zrodlowe/RestAPI) | System zarządzania zadaniami w ASP.NET Core, wykorzystujący autoryzację JWT, hashowanie BCrypt, bazę SQLite, z frontendem w JavaScript. |
 
 <a href="#portfolio-krzysztof-majewski" style="font-size:0.7em">⬆️ Powrót do menu</a>
 
