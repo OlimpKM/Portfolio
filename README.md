@@ -113,7 +113,9 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 
 ### Bazy danych
 - **Systemy:** MS SQL (T-SQL), Oracle (PL/SQL), MySQL, Firebird, PostgreSQL, SQLight, DatabaseNet, Dbf  
-- **Zakres kompetencji:** projektowanie struktur baz danych, optymalizacja zapytań, tworzenie procedur składowanych  
+- **Zakres kompetencji:** projektowanie struktur baz danych, optymalizacja zapytań, tworzenie procedur składowanych 
+- **Narzędzia:**  SSMS, PL/SQL Developer
+- **Analityka:** Power BI / DAX (DAX Studio, Tabular Editor),  SSIS (integracje), SSRS (raportowanie)
 
 ### AI / Wsparcie rozwoju oprogramowania
 - Praktyczne wykorzystanie narzędzi AI (ChatGPT, Gemini) w codziennej pracy programisty  
