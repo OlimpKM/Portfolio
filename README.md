@@ -16,6 +16,10 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 - [Umiejętności](#-umiejętności)
 
 ---
+#### Demo
+☁️ **Hostowane na Microsoft Azure:** [Uruchom aplikację ZadaniaBlazor](https://zadaniablazor-gydtckb4ffg6gmeh.canadacentral-01.azurewebsites.net/)
+> **Uwaga:** Pierwsze uruchomienie może zająć od 10 do 90 sekund (wynika to z ograniczeń darmowego planu **F1 Free** / tzw. *cold start*).
+---
 
 ## 🎓 **Wykształcenie**
 - [Dyplom magister - informatyka ekonomiczna](Certyfikaty%20i%20wykształcenie/dyplom_mgr.JPG)<br><sub>wynik:🔴 bardzo dobry</sub>
@@ -87,6 +91,8 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 | Język / Technologia | Katalog | Główne zagadnienia |
 | :--- | :--- | :--- |
 | **C# / .NET** | 📁&nbsp;[Źródła C#](Kody%20zrodlowe/CSharp) | Dynamiczny interfejs systemu raportowego, wykorzystanie WinForms i delegatów. |
+| **RestAPI** | 📁&nbsp;[Projekt GitHub](https://github.com/OlimpKM/ZadaniaApi) | System zarządzania zadaniami w ASP.NET Core, wykorzystujący autoryzację JWT, hashowanie BCrypt, bazę SQLite, z frontendem w JavaScript. |
+| **Blazor** | 📁&nbsp;[Projekt GitHub](https://github.com/OlimpKM/ZadaniaApi) | Interaktywna aplikacja webowa stworzona w technologii Blazor, stanowiąca warstwę prezentacji dla projektu ZadaniaApi. Umożliwia wygodne zarządzanie listą zadań, filtrowanie oraz śledzenie postępów w czasie rzeczywistym. Łączy funkcjonalność planowania dnia z modułem prognozy pogody. |
 | **Delphi / Pascal** | 📁&nbsp;[Delphi](Kody%20zrodlowe/Delphi) | Zarządzanie połączeniami bazodanowymi (Zeos), integracja z ADO oraz eksport danych do Excela. |
 | **Bazy danych SQL** | 📁&nbsp;[SQL](Kody%20zrodlowe/SQL) | Zaawansowana analityka finansowa, obliczanie odsetek i agregacja dużych zbiorów danych (MySQL). |
 | **Skrypty VBA** | 📁&nbsp;[Skrypty&nbsp;VBA](Kody%20zrodlowe/Skrypty%20VBA) | Programowanie obiektowe wewnątrz pakietu Office, biblioteki WinAPI i autorskie kontrolki UI. |
@@ -95,7 +101,6 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 | **Skrypty Python** | 📁&nbsp;[Skrypty&nbsp;python](Kody%20zrodlowe/Skrypty%20python) | Allegro analizator - pobieranie kategorii i produktów, analiza, dashboard oraz wizualizacja |
 | **Automatyzacja VBS** | 📁&nbsp;[Skrypty&nbsp;VBS](Kody%20zrodlowe/Skrypty%20VBS) | Administracja usługami sieciowymi (DHCP), integracja z netsh i automatyzacja serwerowa. |
 | **Skrypty CMD** | 📁&nbsp;[Skrypty&nbsp;cmd](Kody%20zrodlowe/Skrypty%20cmd) | Narzędzia DevOps do szybkiej migracji, klonowania i konserwacji baz danych MySQL. |
-| **RestAPI** | 📁&nbsp;[Projekt C#](Kody%20zrodlowe/RestAPI) | System zarządzania zadaniami w ASP.NET Core, wykorzystujący autoryzację JWT, hashowanie BCrypt, bazę SQLite, z frontendem w JavaScript. |
 
 <a href="#portfolio-krzysztof-majewski" style="font-size:0.7em">⬆️ Powrót do menu</a>
 
@@ -105,7 +110,7 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 
 ### Programowanie
 - **Języki:** C#, Delphi, PHP, Python, Perl, VBA, JavaScript  
-- **Frameworki / Biblioteki C#:** .NET 8, .NET Framework, WinForms, WPF (podstawy), DevExpress, WCF, Services  
+- **Frameworki / Biblioteki C#:** .NET 8, .NET Framework, WinForms, WPF (podstawy), DevExpress, WCF, Services, Blazor  
 - **Biblioteki / narzędzia C#:** iTextSharp, MailKit, MsgReader, TinyMCE, Google.Apis, WordGlue  
 - **API / Protokół:** REST API, JSON  
 - **Kontrola wersji:** GIT, SVN  
@@ -116,6 +121,9 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 - **Zakres kompetencji:** projektowanie struktur baz danych, optymalizacja zapytań, tworzenie procedur składowanych 
 - **Narzędzia:**  SSMS, PL/SQL Developer
 - **Analityka:** Power BI / DAX (DAX Studio, Tabular Editor),  SSIS (integracje), SSRS (raportowanie)
+
+### Cloud (Chmura)
+- **Microsoft Azure:** App Services, SQL Database, wdrożenia Rest/Blazor API
 
 ### AI / Wsparcie rozwoju oprogramowania
 - Praktyczne wykorzystanie narzędzi AI (ChatGPT, Gemini) w codziennej pracy programisty  
