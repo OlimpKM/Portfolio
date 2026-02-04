@@ -16,7 +16,7 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 - [Umiejętności](#-umiejętności)
 
 ---
-#### Demo
+### Demo
 ☁️ **Hostowane na Microsoft Azure:** [Uruchom aplikację ZadaniaBlazor](https://zadaniablazor-gydtckb4ffg6gmeh.canadacentral-01.azurewebsites.net/)
 > **Uwaga:** Pierwsze uruchomienie może zająć od 10 do 90 sekund (wynika to z ograniczeń darmowego planu **F1 Free** / tzw. *cold start*).
 ---
@@ -57,6 +57,7 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 
 ### Windows
 - [SPM - Security private managment](Zrealizowane%20projekty/Windows/13-SPM/SPM.md) ![Legal](https://img.shields.io/badge/Projekt%20prywatny%20-green) 📂 **zasoby:** wersja portable [SMP (portable).zip](Zrealizowane%20projekty/Windows/13-SPM/SMP%20(portable).zip), dokumentacja: [SPM.pdf](Zrealizowane%20projekty/Windows/13-SPM/SPM.pdf), fragmenty zródeł: [C#](Zrealizowane%20projekty/Windows/13-SPM/Samples/scr/) 
+- [Zadania](https://github.com/OlimpKM/ZadaniaBlazor) / [RestApi](https://github.com/OlimpKM/ZadaniaApi) - *interaktywna aplikacja webowa* ![Legal](https://img.shields.io/badge/Projekt%20prywatny%20-green)
 - [KosztyADM](Zrealizowane%20projekty/Windows/12-KosztyADM/KosztyADM.md) - *ewidencjonowanie kosztów administracyjnych* ![Legal](https://img.shields.io/badge/Projekt%20komercyjny%20(UoP)-orange)
 - [ObsługaWin](Zrealizowane%20projekty/Windows/11-WinCo/WinCo.md) - *oprogramowanie windykacyjne* ![Legal](https://img.shields.io/badge/Projekt%20komercyjny%20(UoP)-orange) 📂 **zasoby:** fragmenty zródeł: [C#](Zrealizowane%20projekty/Windows/11-WinCo/Samples/src/) oraz [Sql](Zrealizowane%20projekty/Windows/11-WinCo/Samples/sql/)
 - [Wysyłka email](Zrealizowane%20projekty/Windows/10-WysylkaEmail/WysylkaEmail.md) - *automatyzacja wysyłki wiadomości email* ![Legal](https://img.shields.io/badge/Projekt%20komercyjny%20(UoP)-orange)
