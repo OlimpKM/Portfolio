@@ -92,7 +92,7 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 | :--- | :--- | :--- |
 | **C# / .NET** | 📁&nbsp;[Źródła C#](Kody%20zrodlowe/CSharp) | Dynamiczny interfejs systemu raportowego, wykorzystanie WinForms i delegatów. |
 | **RestAPI** | 📁&nbsp;[Projekt GitHub](https://github.com/OlimpKM/ZadaniaApi) | System zarządzania zadaniami w ASP.NET Core, wykorzystujący autoryzację JWT, hashowanie BCrypt, bazę SQLite, z frontendem w JavaScript. |
-| **Blazor** | 📁&nbsp;[Projekt GitHub](https://github.com/OlimpKM/ZadaniaApi) | Interaktywna aplikacja webowa stworzona w technologii Blazor, stanowiąca warstwę prezentacji dla projektu ZadaniaApi. Umożliwia wygodne zarządzanie listą zadań, filtrowanie oraz śledzenie postępów w czasie rzeczywistym. Łączy funkcjonalność planowania dnia z modułem prognozy pogody. |
+| **Blazor** | 📁&nbsp;[Projekt GitHub](https://github.com/OlimpKM/ZadaniaBlazor) | Interaktywna aplikacja webowa stworzona w technologii Blazor, stanowiąca warstwę prezentacji dla projektu ZadaniaApi. Umożliwia wygodne zarządzanie listą zadań, filtrowanie oraz śledzenie postępów w czasie rzeczywistym. Łączy funkcjonalność planowania dnia z modułem prognozy pogody. |
 | **Delphi / Pascal** | 📁&nbsp;[Delphi](Kody%20zrodlowe/Delphi) | Zarządzanie połączeniami bazodanowymi (Zeos), integracja z ADO oraz eksport danych do Excela. |
 | **Bazy danych SQL** | 📁&nbsp;[SQL](Kody%20zrodlowe/SQL) | Zaawansowana analityka finansowa, obliczanie odsetek i agregacja dużych zbiorów danych (MySQL). |
 | **Skrypty VBA** | 📁&nbsp;[Skrypty&nbsp;VBA](Kody%20zrodlowe/Skrypty%20VBA) | Programowanie obiektowe wewnątrz pakietu Office, biblioteki WinAPI i autorskie kontrolki UI. |
