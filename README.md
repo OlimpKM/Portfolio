@@ -116,6 +116,7 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 - **API / Protokół:** REST API, JSON  
 - **Kontrola wersji:** GIT, SVN  
 - **Dokumentacja:** Markdown, Chm, Hlp
+- **Konteneryzacja** aplikacji .NET przy użyciu Dockera.
 
 ### Bazy danych
 - **Systemy:** MS SQL (T-SQL), Oracle (PL/SQL), MySQL, Firebird, PostgreSQL, SQLight, DatabaseNet, Dbf  
