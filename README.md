@@ -16,10 +16,6 @@ Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji de
 - [Umiejętności](#-umiejętności)
 
 ---
-### Demo
-☁️ **Hostowane na Microsoft Azure:** [Uruchom aplikację ZadaniaBlazor](https://zadaniablazor-gydtckb4ffg6gmeh.canadacentral-01.azurewebsites.net/)
-> **Uwaga:** Pierwsze uruchomienie może zająć od 10 do 90 sekund (wynika to z ograniczeń darmowego planu **F1 Free** / tzw. *cold start*).
----
 
 ## 🎓 **Wykształcenie**
 - [Dyplom magister - informatyka ekonomiczna](Certyfikaty%20i%20wykształcenie/dyplom_mgr.JPG)<br><sub>wynik:🔴 bardzo dobry</sub>
