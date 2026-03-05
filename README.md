@@ -1,7 +1,7 @@
 # Portfolio Krzysztof Majewski
 
 **Senior Software Engineer - Developer - Administrator - Integrator**  
-Ponad 25 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji desktopowych, webowych oraz systemów bazodanowych. Specjalizuję się w technologii .NET, C#, WinForms, DevExpress, SQL oraz integracji systemów korporacyjnych. Posiadam doświadczenie w automatyzacji procesów, administracji systemami i wykorzystaniu AI w rozwoju oprogramowania.
+Ponad 15 lat doświadczenia w projektowaniu, tworzeniu i wdrażaniu aplikacji desktopowych, webowych oraz systemów bazodanowych. Specjalizuję się w technologii .NET, C#, WinForms, DevExpress, SQL oraz integracji systemów korporacyjnych. Posiadam doświadczenie w automatyzacji procesów, administracji systemami i wykorzystaniu AI w rozwoju oprogramowania.
 
 #### Kontakt
 ✉️ email: [f.krzysztof.majewski@gmail.com](mailto:f.krzysztof.majewski@gmail.com)<br>
